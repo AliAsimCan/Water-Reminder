@@ -14,6 +14,5 @@ if __name__ == '__main__':
         notification.notify(
             title = "Su İçme Vakti",
             message ="Sağlıklı Yaşam İçin Su İçin!.",
-            timeout= 10
-            )
+            timeout= (10)
         time.sleep(pSureAralik)
